@@ -9,5 +9,5 @@ public class StoreNavigatingBackendApplication {
     public static void main(String[] args) {
         SpringApplication.run(StoreNavigatingBackendApplication.class, args);
     }
-
+        //test line
 }
